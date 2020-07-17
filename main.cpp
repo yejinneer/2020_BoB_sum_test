@@ -1,7 +1,6 @@
-#include <stdio.h>
+#include <stdio.h> 
 #include "sum.h"
-
-int main(){
-    int s = sum(10);
-    printf("sum = %d\n, s");
+int main(){  
+    int s = sum(10);  
+    printf("Sum = %d\n", s); 
 }
